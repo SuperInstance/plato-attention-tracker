@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: plato-attention-tracker
+Version: 0.1.0
+Summary: Attention as a first-class resource in PLATO
+Requires-Python: >=3.10
+Requires-Dist: requests>=2.28
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-mock; extra == "dev"

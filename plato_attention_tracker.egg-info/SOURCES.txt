@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+plato_attention/__init__.py
+plato_attention_tracker.egg-info/PKG-INFO
+plato_attention_tracker.egg-info/SOURCES.txt
+plato_attention_tracker.egg-info/dependency_links.txt
+plato_attention_tracker.egg-info/requires.txt
+plato_attention_tracker.egg-info/top_level.txt
+tests/test_attention.py
